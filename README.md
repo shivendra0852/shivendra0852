@@ -1,4 +1,4 @@
-[![MasterHead](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif)](https://shivendra0852.io)
+[![MasterHead](https://binaryinformatics.com/wp-content/uploads/2022/09/Java-Developer-Skills.jpg)](https://shivendra0852.io)
 <h1 align="center">Hi 👋, I'm Shivendra!</h1>
 <h3 align="center">A Java Backend Developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/somya143/somya143/raw/main/Images/abc.gif">

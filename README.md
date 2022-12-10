@@ -33,4 +33,4 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra0852&theme=dark" alt="shivendra0852" /></p>
 
-<a href="https://github.com/shivendra0852"><img alt="Chinni Jagadeesh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivendra0852&custom_title=Shiv%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/shivendra0852"><img alt="Shivendra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivendra0852&custom_title=Shiv%27s%20Contribution%20Graph&theme=react-dark" /></a>

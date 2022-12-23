@@ -33,4 +33,4 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra0852&theme=dark" alt="shivendra0852" /></p>
 
-<a href="https://github.com/shivendra0852"><img alt="Shivendra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shivendra0852&custom_title=Shiv%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/shivendra0852/github-readme-activity-graph"><img alt="Shivendra's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shivendra0852&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

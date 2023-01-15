@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **shivendrasince2001@gmail.com**
 
-- ⚡ Fun fact: **I didn't choose DEVELOPMENT, 
--    DEVELOPMENT chose me.**
+- ⚡ Fun fact: **I didn't choose DEVELOPMENT, DEVELOPMENT chose me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

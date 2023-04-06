@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, AWS, etc.**
 
-
 - 👨‍💻 All of my projects are available at my [Portfolio](https://shivendra0852.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, etc.**

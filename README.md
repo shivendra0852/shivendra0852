@@ -17,7 +17,7 @@ If you are searching for a reliable, skilled, and passionate Java developer to j
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://shivendra0852.github.io/)
 
-- 📫 How to reach me **shivendrasince2001@gmail.com**
+- 📫 You can reach out to me through **shivendrasince2001@gmail.com**
 
 - ⚡ Fun fact: **I didn't choose DEVELOPMENT, DEVELOPMENT chose me.**
 

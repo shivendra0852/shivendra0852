@@ -19,7 +19,7 @@ If you are searching for a reliable, skilled, and passionate Java developer to j
 
 - 📫 You can reach out to me through **shivendrasince2001@gmail.com**
 
-- ⚡ Fun fact: **I didn't choose DEVELOPMENT, DEVELOPMENT chose me.**
+- ⚡ Fun fact: **I chose DEVELOPMENT, DEVELOPMENT didn't choose me.**
 
 
 <h3 align="left">Connect with me:</h3>

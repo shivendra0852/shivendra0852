@@ -13,7 +13,7 @@ If you are searching for a reliable, skilled, and passionate Java developer to j
 
 - 💬 Ask me about **Java, Hibernate, JDBC, DBMS, SQL, SpringBoot, RestAPI Webservices, etc.**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://shivendra0852.github.io/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://shivendrashrivastwa.com/)
 
 - 📫 You can reach out to me through **shivendrasince2001@gmail.com**
 

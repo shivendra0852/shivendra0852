@@ -11,7 +11,7 @@ If you are searching for a reliable, skilled, and passionate Java developer to j
 
 <img align="right" alt="Coding" width="400" src="https://github.com/somya143/somya143/raw/main/Images/abc.gif">
 
-- 💬 Ask me about **Java, Hibernate, JDBC, DBMS, SQL, SpringBoot, RestAPI Webservices, etc.**
+- 💬 Ask me about **Java, Maven, Hibernate, JDBC, DBMS, SQL, SpringBoot, RestAPI Webservices, etc.**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://shivendrashrivastwa.com/)
 

@@ -20,6 +20,7 @@ If you are searching for a reliable, skilled, and passionate Java developer to j
 - ⚡ Fun fact: **I chose DEVELOPMENT, DEVELOPMENT didn't choose me.**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivendra0852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivendra0852" height="30" width="40" /></a>

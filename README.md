@@ -2,7 +2,7 @@
 
 <p>Hello!👋 I am Shivendra Shrivastwa, a talented and enthusiastic Java developer residing in India. With vast experience in crafting clean and efficient code, I take pride in creating innovative and scalable solutions that solve real-world problems and improve people's lives.
 
-As a developer, I constantly seek new challenges and strive to stay ahead by keeping up-to-date with the latest trends and technologies. I have diverse skills in multiple technologies like Java, Hibernate, JDBC, MySQL, Spring Framework, HTML, CSS, and JavaScript, and a proven track record of delivering high-quality projects.
+As a developer, I constantly seek new challenges and strive to stay ahead by keeping up-to-date with the latest trends and technologies. I have diverse skills in multiple technologies like Java, Hibernate, JDBC, MySQL, Spring Framework, SpringBoot, RestAPI Webservices, HTML, CSS, and JavaScript, and a proven track record of delivering high-quality projects.
 
 My ultimate goal is to work with teams with forward-thinking ideas and create cutting-edge software products that drive uniform growth and success for businesses and individuals. I am an energetic team player who thrives in fast-paced and dynamic environments, always eager to utilize my skills and expertise to help projects reach their full potential.
 

@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/shivendra0852/shivendra0852/blob/main/sources/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpg)](https://shivendra0852.io)
 
-<p>Hello!👋 I am Shivendra Shrivastwa, a talented and enthusiastic Java developer with vast experience in crafting clean and efficient code, I take pride in creating innovative and scalable solutions that solve real-world problems and improve people's lives.
+<p>Hello! I am Shivendra Shrivastwa, a talented and enthusiastic Java developer with vast experience in crafting clean and efficient code, I take pride in creating innovative and scalable solutions that solve real-world problems and improve people's lives.
 
 As a developer, I constantly seek new challenges and strive to stay ahead by keeping up-to-date with the latest trends and technologies. I have diverse skills in multiple technologies like Java, Hibernate, JDBC, MySQL, Spring Framework, SpringBoot, RestAPI Webservices, HTML, CSS, and JavaScript, and a proven track record of delivering high-quality projects.
 
